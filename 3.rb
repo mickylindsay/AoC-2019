@@ -1,4 +1,4 @@
-# Notes: 228 bytes
+# Notes: 227 bytes
 # regex match against 'LRDU' to calculate direction of next step
 # Fails for results greater than 387420489 b/c of min comparison
 

@@ -1,4 +1,4 @@
-# Notes:
+# Notes: 26 bytes
 #  STDIN.respond_to?(:each)
 #    > true
 # Which means its Enumberable

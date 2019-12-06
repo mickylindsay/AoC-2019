@@ -1,4 +1,4 @@
-# Notes: 252 bytes
+# Notes: 248 bytes
 # Nothing really... just changes values of the
 # hash to also count of steps from the origin
 

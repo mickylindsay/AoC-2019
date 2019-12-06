@@ -1,4 +1,4 @@
-# Notes:
+# Notes: 129 bytes
 # array indexed at [x,y] returns that range, which
 # can be overwritten with another comma seperated list
 #
